@@ -8,6 +8,6 @@ In my free time, I like to practice yoga, D&D, and I like to play with my cats.
 
 You can find me at:
 
-- Site: [devmedeiros.github.io](devmedeiros.github.io)
+- Site: [devmedeiros.github.io](https://devmedeiros.github.io/)
 - Linkedin: [medeiros-jaqueline](https://www.linkedin.com/in/medeiros-jaqueline/)
 - Github: [devmedeiros](https://github.com/devmedeiros)
