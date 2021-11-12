@@ -1,10 +1,8 @@
 ## Hello, my name is Jaqueline Souza Medeiros :space_invader:
 
-I’m a 25 years old Statistician who graduated from the Federal University of Goiás in Brazil. The primary purpose of this blog is to write about what I have learned and continue to learn about Data Science.
+I’m a 25 years old Statistician who graduated from the Federal University of Goiás in Brazil. Currently, I'm specializing in Data Science through Anhembi Morumbi University.
 
-I love learning about other cultures and languages, and because of this, I’ve come to have a great interest in Natural Language Processing. Also, I am interested in simulation and machine learning, so I hope to explore these areas soon.
-
-In my free time, I like to practice yoga, D&D, and I like to play with my cats.
+I tend to have an easier time learning while doing. So I'm writing a blog where I'll be documenting everything that I'm studying. My main interests are R, Python, NLP, ML, and Simulation.
 
 You can find me at:
 
