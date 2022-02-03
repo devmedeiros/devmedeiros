@@ -1,6 +1,6 @@
 ## Hello, my name is Jaqueline Medeiros :space_invader:
 
-I’m a 25 years old Statistician from Brazil who is trying to learn new technologies to further dive into the data science world. To do so I'm writing a blog in my free time where I talk about what I have learned so far and occasionally showcase some projects.
+I’m a 26 years old Data Scientist from Brazil who is trying to learn new technologies. To do so I'm writing a blog in my free time where I talk about what I have learned so far and occasionally showcase some projects.
 
 You can find me at:
 
