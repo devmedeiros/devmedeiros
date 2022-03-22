@@ -4,7 +4,7 @@ I’m a 26 years old Data Scientist from Brazil who is trying to learn new techn
 
 You can find me at:
 
-- Blog: [devmedeiros.github.io](https://devmedeiros.com/)
+- Blog: [devmedeiros.com](https://devmedeiros.com/)
 - Linkedin: [medeiros-jaqueline](https://www.linkedin.com/in/medeiros-jaqueline/)
 
 ### Tools and Technologies
