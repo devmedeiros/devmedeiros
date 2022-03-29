@@ -1,4 +1,8 @@
-## Hello, my name is Jaqueline Medeiros :space_invader:
+<p align="center">
+<img src="https://raw.githubusercontent.com/devmedeiros/devmedeiros/main/assinatura.png" />
+</p>
+
+---
 
 I’m a 26 years old Data Scientist from Brazil who is trying to learn new technologies. To do so I'm writing a blog in my free time where I talk about what I have learned so far and occasionally showcase some projects.
 
