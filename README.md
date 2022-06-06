@@ -1,7 +1,7 @@
 # 👋🤠 Hello, I'm Jaqueline Medeiros
 
 
-I’m a Data Scientist from Brazil who is trying to learn new technologies. To do so I'm writing a blog in my free time where I talk about what I have learned so far and occasionally showcase some projects.
+I’m a Data Analyst from Brazil who is trying to learn new technologies. To do so I'm writing a blog in my free time where I talk about what I have learned so far and occasionally showcase some projects.
 
 You can find me at:
 
