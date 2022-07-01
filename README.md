@@ -14,9 +14,9 @@ You can find me at:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Alura Challenge BI 2](https://devmedeiros.com/post/alura-challenge-bi-2/)
 - [Feature Selection](https://devmedeiros.com/post/2022-06-14-feature-selection/)
 - [Data Science Challenge - Churn Rate](https://devmedeiros.com/post/2022-05-30-churn-rate-challenge/)
 - [UX/UI for Business Intelligence Dashboards](https://devmedeiros.com/post/2022-04-29-ux-power-bi-dashboards/)
 - [Storytelling with CEAP](https://devmedeiros.com/post/2022-04-17-storytelling-with-ceap/)
-- [Comprehending the P Value](https://devmedeiros.com/post/2022-04-12-comprehending-the-p-value/)
 <!-- BLOG-POST-LIST:END -->
